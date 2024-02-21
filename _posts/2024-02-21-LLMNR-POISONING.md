@@ -14,7 +14,7 @@ render_with_liquid: false
     LLMNR poisoning is a man-in-the-middle (MITM) attack that exploits this protocol.An attacker send a poisned answer to the victim machine , forcing computers that ask for LLMNR information instead to communicate directly with the attacker instead of their intended targets , Once connected with them, attackers can capture sensitive data.
     
     Here is an example of LLMNR POISONING ATTACK :
-    ![Alt text](../media/image.png)
+    
 
 
 **WALKTHROUGH**
@@ -24,33 +24,30 @@ In this section, I will demonstrate how a LLMNR POISONING attack can be utilized
 
 To accomplish this, I utilized an Active Directory lab environment. Below is the network architecture:
 
-![Alt text](../media/iamge4.jpg)
+
 
 
 
 The initial step is to launch a responder on Kali Linux to intercept network traffic :
-![Alt text](../media/responder.png)
+
 
 Once the responder has been configured, the next step involves initiating an SMB share on the Windows machine:
 
-![Alt text](../media/share.png)
+
 
 After starting  the SMB share on the domain, the Windows machine attempts to resolve this name using LLMNR. Subsequently, the Kali Linux machine sends a poisoned answer
 
-![Alt text](../media/poisned.jpg)
+
 
 and then  the poisoner asking for user credentials:
 
-![Alt text](../media/msg.jpg)
+
 
 domain isn’t available at all! That’s just our poisoned answer in order to obtain NTLM hashes. Even if the user doesn’t input credentials, the hashes will be obtained:
 
-![Alt text](../media/hash.jpg)
 
 after getting the hash value we will crack it using hashcat:
 
-![Alt text](../media/crack.png)
 
-![Alt text](../media/password.png)
 
 AND  WE GOT THE JOB DONE.
