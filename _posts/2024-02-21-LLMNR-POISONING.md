@@ -6,6 +6,8 @@ categories: [Active Directory]
 tags: [blog]
 render_with_liquid: false
 ---
+![Desktop View](/media/attack.png)
+
 **LLMNR  POISONING**
   - In this blog  i'm  gonna explain one of the most used attack in active directory hacking.
 
