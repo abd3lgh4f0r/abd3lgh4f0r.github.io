@@ -6,6 +6,8 @@ categories: [Active Directory]
 tags: [blog]
 render_with_liquid: false
 ---
+![Desktop View](/media/post.png)
+
 **LLMNR  POISONING**
   - In this blog  i'm  gonna explain one of the most used attack in active directory hacking.
 
@@ -52,4 +54,5 @@ after getting the hash value we will crack it using hashcat:
 
 ![Alt text](/media/password.png)
 
-AND  WE GOT THE JOB DONE
+
+
