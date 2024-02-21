@@ -1,5 +1,5 @@
 ---
-title: LLMNR POISONING
+title: LLMNR-POISONING
 author: ABDELGHAFOUR BOUHDYD
 date: 2024-02-21 23:01:00 +0100
 categories: [Active Directory]
