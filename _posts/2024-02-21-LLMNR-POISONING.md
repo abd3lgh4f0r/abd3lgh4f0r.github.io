@@ -2,6 +2,7 @@
 title: LLMNR POISONING
 author: ABDELGHAFOUR BOUHDYD
 date: 2024-02-21 22:19:00 +0100
+categories: [Active Directory]
 tags: [blog]
 render_with_liquid: false
 ---
@@ -16,7 +17,7 @@ render_with_liquid: false
     
     Here is an example of LLMNR POISONING ATTACK :
     ![Desktop View](/media/image.png)
-     source : https://medium.com/@subhammisra45/llmnr-poisoning-and-relay-5477949b7bef
+     [Source](https://medium.com/@subhammisra45/llmnr-poisoning-and-relay-5477949b7bef)
 
 **WALKTHROUGH**
 
