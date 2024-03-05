@@ -37,7 +37,7 @@ social:
   name:  abdelghafour bouhdyd
   email: abouhdyd@gmail.com # change to your email address
   links:
-    - abd3lgh4f0r
+    # The first element serves as the copyright owner's link
     - https://twitter.com/4af0r_abdel # change to your twitter homepage
     - https://github.com/abd3lgh4f0r # change to your github homepage
     - https://www.linkedin.com/in/abdelghafourbouhdyd/ 
