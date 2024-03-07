@@ -31,7 +31,7 @@ github:
 twitter:
   username: 4afor_abdel # change to your twitter username
 
-linkedin:
+linkedin_username:
   linkedin_username: abdelghafourbouhdyd
 
 social:
@@ -39,6 +39,7 @@ social:
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: abdelghafour bouhdyd
   email: abouhdyd@gmail.com # change to your email address
+  linkedin_username: abdelghafourbouhdyd
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/4af0r_abdel # change to your twitter homepage
