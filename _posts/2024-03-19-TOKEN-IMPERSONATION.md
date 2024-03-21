@@ -117,7 +117,7 @@ So,we load the incognito using this command :
 
 ![Desktop View](/media/incognito.png)
 
-After loading incognito we list check the existing tokens :
+After loading incognito we list the existing tokens :
 
 ![Desktop View](/media/tokenslist.png)
 
@@ -162,7 +162,7 @@ By requiring a password, even if an adversary can get terminal access, they must
 
 - Access Token Manipulation by Limiting  permissions so that users and user groups cannot create tokens.
 
-  [Ressource](https://attack.mitre.org/mitigations/M1026/)
+  [Reference](https://attack.mitre.org/mitigations/M1026/)
 
 
 
@@ -171,14 +171,14 @@ By requiring a password, even if an adversary can get terminal access, they must
 **2-Active Directory Tiering** :
 Account tiering in Active Directory typically involves organizing users into different groups or organizational units (OUs) based on their roles, responsibilities, or levels of authority within the organization. This hierarchical structure helps in efficiently managing permissions and access control across the network.when the AD is tiered, you limit the exposure of sensitive credentials
 
-[Ressource1](https://learn.microsoft.com/en-us/microsoft-identity-manager/pam/tier-model-for-partitioning-administrative-privileges)
+[Reference1](https://learn.microsoft.com/en-us/microsoft-identity-manager/pam/tier-model-for-partitioning-administrative-privileges)
 
 
 An example of a Tiered Active Directory :
 
 ![Desktop View](/media/tierd.png)
 
-[Ressource2](https://files.truesec.com/hubfs/PDF/Service-Descriptions/Service-Overview-AD-Tiering-Implementation.pdf)
+[Reference2](https://files.truesec.com/hubfs/PDF/Service-Descriptions/Service-Overview-AD-Tiering-Implementation.pdf)
 
 
 
