@@ -35,7 +35,7 @@ The TGS is encrypted using a key derived from the Service Owner Hash which is t
 
   [Reference](https://tryhackme.com/)
 
-To dive into the details of kerberos Authentication I recommend you to check [MO72 blog](https://an-mo72.github.io/posts/Kerberos/)
+To dive into the details of kerberos Authentication I recommend you to check out [MO72 blog](https://an-mo72.github.io/posts/Kerberos/)
 
 **SPN**: Service principal Name , is an account used to o run services and they are usually granted the least privilege necessary to perform their function.
 
@@ -50,7 +50,7 @@ As seen in the fundamental part, the TGS ticket is encrypted with the password h
 ![Desktop View](/media/labkerbero.png)
 
 
-To accomplish this attack i've used an AD LAB featuring an SPN to run SQL Service, there are the command i used  to create an SPN :
+To accomplish this exploitation i've used an AD LAB featuring an SPN to run SQL Service, there are the command i used  to create an SPN :
 
 ![Desktop View](/media/spn.png)
 ![Desktop View](/media/spn1.png)
