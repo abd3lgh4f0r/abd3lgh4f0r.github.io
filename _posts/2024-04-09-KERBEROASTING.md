@@ -197,7 +197,7 @@ characters, and be changed frequently.
 This is also known as Kerberos Armoring,is a security feature in Active Directory Domain Services that was introduced with Windows Server 2012. This new feature solves common security problems with Kerberos and also makes sure clients do not fall back to less secure legacy protocols or weaker cryptographic methods.It provides a protected channel between the client and the Key Distribution Center (KDC).
 
 
-[Reference1]((https://www.picussecurity.com/hubfs/Threat%20Readiness%20-%20Active%20Directory%20Ebook%20-%20Q123/Picus-The-Complete-Active-Directory-Security-Handbook.pdf))
+[Reference1](https://www.picussecurity.com/hubfs/Threat%20Readiness%20-%20Active%20Directory%20Ebook%20-%20Q123/Picus-The-Complete-Active-Directory-Security-Handbook.pdf)
 
 [Reference2](https://trustedsec.com/blog/i-wanna-go-fast-really-fast-like-kerberos-fast)
 
