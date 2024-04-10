@@ -11,7 +11,7 @@ ___
 
 **LOG-ANALYZER**
 
-This Project automate web server log analysis, focusing on Apache server logs, and detects web attacks.Additionally,it features a user-friendly dashboard for enhaced monitoring and visualization. [Link to project]()
+This Project automate web server log analysis, focusing on Apache server logs, and detects web attacks.Additionally,it features a user-friendly dashboard for enhaced monitoring and visualization. [Link to project](https://github.com/abd3lgh4f0r/LOG-ANALYZER)
 
 
 
