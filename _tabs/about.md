@@ -25,4 +25,4 @@ This project ensure efficient handeling of agents using Multithreading,Additiona
 
 [Link to project](https://github.com/abd3lgh4f0r/C2_Server)
 
-![Desktop View](/media/c2server.png)
+![Desktop View](/media/pythonc2.png)
