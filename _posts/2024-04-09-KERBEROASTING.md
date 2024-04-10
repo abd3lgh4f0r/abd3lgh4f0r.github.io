@@ -60,11 +60,11 @@ To accomplish this exploitation i've used an AD LAB featuring an SPN to run SQL 
 
 To maitien this attack i've used two tools: Impacket and Rubeus.
 
-**1-Impacket**: This tool consist the use  script GetUserSPNs (Python) can perform all the necessary steps to request a ST for a service given its SPN and valid domain credentials.
+**1-Impacket**: This tool consist the use of the python script GetUserSPNs , which can perform all the necessary steps to request a ST for a service given its SPN and valid domain credentials.
 [Learn more](https://attack.mitre.org/software/S0357/)
 
 
-**2-Rubeus**: to leverage this Rubeus the attacker have to enumerate SPN then run the executable file Rubeus.exe
+**2-Rubeus**: The Kerberoasting attack that leverages Rubeus involves enumerating the SPN accounts and then execute  Rubeus.exe executable file.
 [Lean more ](https://attack.mitre.org/software/S1071/)
 
 other techniques can be found [here](https://attack.mitre.org/techniques/T1558/003/)

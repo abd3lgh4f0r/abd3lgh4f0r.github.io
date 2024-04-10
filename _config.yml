@@ -16,7 +16,7 @@ timezone: Africa/Casablanca
 
 title: abd3lgh4f0r # the main title
 
-tagline: Cybersecurity Content  # it will display as the sub-title
+tagline: Cybersecurity Content | Windows Exploitation  # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
