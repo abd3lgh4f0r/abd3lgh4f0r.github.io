@@ -16,7 +16,7 @@ timezone: Africa/Casablanca
 
 title: bouhdyd insights # the main title
 
-tagline: Cybersecurity Content  Windows Exploitation  # it will display as the sub-title
+tagline: Cybersecurity Content  # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A blog platform where I provide explanations on various topics related to information security.
