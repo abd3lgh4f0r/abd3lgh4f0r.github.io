@@ -1,5 +1,5 @@
 ---
-title: KERBEROASTING
+title: Kerberoasting
 date: 2024-04-10 22:11:00 +0000
 categories: [Active-Directory]
 tags: [blog]

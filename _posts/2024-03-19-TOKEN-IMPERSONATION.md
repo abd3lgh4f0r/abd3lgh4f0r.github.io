@@ -1,5 +1,5 @@
 ---
-title:  TOKEN IMPERSONATION
+title:  Token Impersonation
 date: 2024-03-19 13:48:00 +0000
 categories: [Active-Directory]
 tags: [blog]
